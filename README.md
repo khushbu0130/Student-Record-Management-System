@@ -1,8 +1,8 @@
 ## 📚 Student Record Management System
 
-The Student Record Management System (SRMS) is a simple yet efficient software application developed in C++ to manage and maintain student records using file handling.
+- The Student Record Management System (SRMS) is a simple yet efficient software application developed in C++ to manage and maintain student records using file handling.
 
-This project helps in organizing student data such as name, roll number, marks, and grades in a structured way, making record management easy and accessible.
+- This project helps in organizing student data such as name, roll number, marks, and grades in a structured way, making record management easy and accessible.
 
 
 
@@ -11,11 +11,15 @@ This project helps in organizing student data such as name, roll number, marks, 
 
 The system supports the following operations:
 
-➕ Add new student records
-📄 Display all existing records
-✏️ Modify student details
-🔍 Search for specific student records
-❌ Delete student records
+- ➕ Add new student records
+  
+- 📄 Display all existing records
+  
+- ✏️ Modify student details
+  
+- 🔍 Search for specific student records
+  
+- ❌ Delete student records
 
 All records are securely stored in a file named student.dat.
 
